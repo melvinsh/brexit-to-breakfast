@@ -5,8 +5,8 @@ Chrome extension that replaces 'Brexit' with 'Breakfast' on all websites.
 
 Installation
 ------------
-
-Go to the Extensions window in Chrome and drag [breakfast-to-breakfast.crx](https://github.com/melvinsh/brexit-to-breakfast/raw/master/brexit-to-breakfast.crx) into the page.
+- Option 1: Download the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/brexit-to-breakfast/gnefkccejpcaphajimeconohfhcooepa?authuser=1).  
+- Option 2: Download [brexit-to-breakfast.crx](https://github.com/melvinsh/brexit-to-breakfast/raw/master/brexit-to-breakfast.crx), go to the Extensions window in Chrome and drag the file into the page.
 
 Screenshots
 -----------
