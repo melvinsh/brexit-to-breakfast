@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Brexit To Breakfast",
+	"version": "1.0",
+	"description": "Replaces 'brexit' with 'breakfast' on all websites.",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
